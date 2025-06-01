@@ -8,3 +8,6 @@ Notizen für das Projekt:
 
 Feature Branch Ergänzung:
 6. Feature-spezifische Notizen hinzugefügt
+
+Experiment Branch Ergänzung:
+7. Experimentelle Notizen und Tests
