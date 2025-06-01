@@ -1,0 +1,10 @@
+Notizen für das Projekt:
+
+1. Alle Operationen dokumentieren
+2. Englische Commit-Nachrichten verwenden
+3. Verschiedene Branches testen
+4. Merge-Konflikte lösen
+5. Pull-Request erstellen
+
+Experiment Branch Ergänzung:
+6. Experimentelle Notizen und Tests
