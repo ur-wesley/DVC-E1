@@ -1,0 +1,10 @@
+Das ist eine Textdatei für die Demonstration von Versionsverwaltung.
+
+Diese Datei wird verwendet um verschiedene Operationen zu zeigen:
+- Hinzufügen von Dateien
+- Änderungen verfolgen
+- Unterschiede anzeigen
+- Dateien verschieben und löschen
+
+Neue Zeile hinzugefügt für Diff-Demonstration.
+Weitere Änderung für Versionskontrolle.
