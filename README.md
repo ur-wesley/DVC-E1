@@ -2,6 +2,8 @@
 
 Dokumentation der Operationen für die Einsendeaufgabe DVC-E1.
 
+**Hinweis: Alle Texte in diesem Repository wurden KI-generiert.**
+
 ## Aufgabe 1: Repository erstellt ✓
 Das Repository wurde auf GitHub erstellt und ist öffentlich verfügbar.
 
