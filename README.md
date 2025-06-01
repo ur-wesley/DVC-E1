@@ -51,3 +51,20 @@ Separater Pull-Request für https://github.com/edlich/education wird erstellt.
 - Alle Git-Operationen dokumentiert und durchgeführt
 - Branch-Operationen mit Merge-Konflikten gelöst
 - Zeitreisen demonstriert
+
+## Screenshots der Git-Operationen:
+
+### Git Status
+![Git Status](status.png)
+
+### Git Diff
+![Git Diff](diff.png)
+
+### Git Log
+![Git Log](log.png)
+
+### Git Branches
+![Git Branches](branch.png)
+
+### Zeitreisen (Time Travel)
+![Zeitreisen](timetravel.png)
