@@ -1,0 +1,6 @@
+Diese Datei wird später umbenannt.
+
+Inhalt für Demonstrationszwecke:
+- Datei wird verschoben
+- Datei wird umbenannt
+- Änderungen werden verfolgt

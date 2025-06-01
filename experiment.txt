@@ -1,0 +1,9 @@
+Experimentelle Änderungen:
+
+Diese Datei enthält experimentelle Features.
+Unterschiedliche Ansätze werden hier getestet:
+- Alternative Implementierungen
+- Neue Ideen
+- Experimentelle Funktionen
+
+Version: Experiment 0.5
